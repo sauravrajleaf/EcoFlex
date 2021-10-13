@@ -15,39 +15,19 @@
 
 <h2>📌Repository</h2>
 
-Agriculture is the backbone of our country (India) and a way of livelihood for most of the people. It's a major sector that contributes to our country’s economy. Kudos to all the farmers who puts in their efforts and sweat to provide food for the well being. 
+EcoFlex is an eco-friendly guilt free shopping platform to make the world a better place to live in. We aim to empower the mindset of society towards sustainability alternatives and zero waste solutions 
 
+Lets step in to make a small change by giving individuals a better choice of products to create social impact and save the environment for future generations to come.
 
-<p align="center">
-<img src="https://github.com/prathimacode-hub/FarmArk/blob/main/Readme_Assets/Agriculture.jpg" width=340px height=200px>
-</p>
-
-
-FarmArk is an app designed for facilitation of farmers and address them with all the needed farming solutions for their greens to prosper and excel. So the aim behind developing this portal is to provide a platform for farmers to make their lives easier and efficient!!.🚀 
-
-
-<h2>💡Features</h2>
-
-This app endorses with all the listed features stated below and a one-stop solution for all their farmer needs.
-
-
-<h2>🙌Join Here</h2>
-
- Warm invite to all the individuals who are looking forward to play their roles as a developer to label the pressing needs faced by farmers. 
+Join us in our vision to do good and transition communities to waste-free and responsible living!!. 🚀 
  
 
 <h2>🔑Tech Stacks</h2>
 
 
-**FrontEnd : HTML, CSS, JS**
-
-**BackEnd : Machine Learning, Deep Learning, Database**
-
-**Programming Language : Python**
-
-**Framework : Flask**
-
-**Dashboard, Smart Solutions : Internet Of Things**
+<p align="left">
+<img src="https://github.com/prathimacode-hub/VoxUp/blob/main/Readme_Assets/HTML%20CSS%20JS.jpeg" width=180px height=100px>
+</p>
 
 
 Contributors are expected to join this Discord Channel here for the project discussion : 
