@@ -55,6 +55,17 @@ https://prathimacode-hub.github.io/EcoFlex/
 **Note** : One should follow these templates while creating a new issue or pull request.
 
 
+<h2>⚙️ Things to Note</h2>
+
+* Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
+* You can only work on issues that have been assigned to you.
+* If you want to contribute, it's preferable that you create a new issue before making a PR and link your PR to that issue.
+* If you have modified/added code, make sure the code compiles before submitting.
+* Strictly use snake_case (underscore_separated) in your file_name and push it in the correct folder.
+* Add Screenshots to help us know what the idea is all about. 
+* Do not update the **[README.md](https://github.com/prathimacode-hub/EcoFlex/blob/main/README.md).**
+
+
 <h2>👨‍💻 Workflow:</h2>
 
 - Fork the repository
@@ -68,6 +79,36 @@ https://prathimacode-hub.github.io/EcoFlex/
 - Then in GitHub, in your cloned repository, find the option to make a pull request. 
 
 > print("Start contributing for EcoFlex")
+
+
+<h2>👍OpenSource Program</h2>
+
+This project was a part of these open source programs.
+
+<table>
+<tr>
+ <td>
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/Delta%20Winter%20Of%20Code/Delta-Winter-Of-Code.jpg" width=100px height=80px /></a>
+ </td>
+</tr>
+</table>
+
+
+<h2>✨Hall Of Fame</h2>   
+
+Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀 
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<a href="https://github.com/prathimacode-hub/EcoFlex/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=prathimacode-hub/EcoFlex" />
+</a>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
 <h2>📜 Code Of Conduct</h2>
